@@ -1,0 +1,62 @@
+header{
+background-color: #121B2A;
+}
+.wrapper{
+overflow:hidden;
+width: 95%;
+margin: 0 auto;
+}
+.logo{
+width: 15%;
+float: left;
+}
+.logo img{
+width: 100%;
+}
+.login1{
+width: 10%;
+float: right;
+display: inline;
+background-color: #FFFFFF;
+padding: 0px;
+    margin: -6px 418px;
+}
+.login1 img{
+width: 100%;
+
+}
+
+.login2{
+	display: inline;
+	width: 10%;
+    float: right;
+    padding: 0px;
+    margin: -23px 290px;
+  
+
+}
+.login2 img{
+	width: 113%;
+}
+.menu{
+width: 65%;
+float: right;
+margin-top: 17px;
+}
+.menu ul{
+
+}
+.menu ul li{
+list-style: none;
+float: left;
+}
+.menu ul li a{
+	font-size: 16px;
+	font-family: sans-serif;
+	color: #D3D3D8;
+text-decoration: none;
+padding: 0 10px;
+}
+#home{
+	color: #04609C;
+}
